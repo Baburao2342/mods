@@ -1,10 +1,6 @@
 # My Minecraft Mods Repository
 
-[![GitHub stars](https://img.shields.io/github/stars/Baburao2342/mods?style=social)](https://github.com/Baburao2342/mods)
-[![GitHub forks](https://img.shields.io/github/forks/Baburao2342/mods?style=social)](https://github.com/Baburao2342/mods/forks)
-[![GitHub watchers](https://img.shields.io/github/watchers/Baburao2342/mods?style=social)](https://github.com/Baburao2342/mods/watchers)
-[![GitHub all releases downloads](https://img.shields.io/github/downloads/Baburao2342/mods/total?color=brightgreen)](https://github.com/Baburao2342/mods/releases)
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.1-blue)](https://www.minecraft.net/)
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.11-blue)](https://www.minecraft.net/)
 [![Loader](https://img.shields.io/badge/Loader-Fabric-orange)](https://fabricmc.net/)
 
 A lightweight collection of mods focused on **high performance** and fast setup for **Minecraft 1.21.1 Java Edition** with **Fabric Loader**.  
