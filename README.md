@@ -10,7 +10,7 @@ Perfect if you want smooth gameplay without spending hours configuring mods.
 
 | Branch        | Description                                                                 | Recommended for                  |
 |---------------|-----------------------------------------------------------------------------|----------------------------------|
-| `main`        | Mods for maximum performance – **no shaders**, very lightweight            | If you have a weak PC and want FPS       |
+| `no-shaders`        | Mods for maximum performance – **no shaders**, very lightweight            | If you have a weak PC and want FPS       |
 | `shaders`     | Same performance mods + **Iris** + **Complementary Shaders**               | If you have a powerful GPU       |
 
 ## Quick Start – Shaders Branch (recommended if you have a good GPU)
