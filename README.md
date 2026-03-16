@@ -13,7 +13,7 @@ Perfect if you want smooth gameplay without spending hours configuring mods.
 | `no-shaders`        | Mods for maximum performance – **no shaders**, very lightweight            | If you have a weak PC and want FPS       |
 | `shaders`     | Same performance mods + **Iris** + **Complementary Shaders**               | If you have a powerful GPU       |
 
-## Quick Start – Shaders Branch (recommended if you have a good GPU)
+## Quick Start – Shaders Branch (recommended if you don't have a good GPU)
 
 Go to your game directory and replace the mods folder with this. As the repo is called mods, you can directly clone it.
 
