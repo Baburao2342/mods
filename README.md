@@ -17,6 +17,6 @@ Perfect if you want smooth gameplay without spending hours configuring mods.
 
 Go to your game directory and replace the mods folder with this. As the repo is called mods, you can directly clone it.
 
-```bash
+```git
 # Clone only the no-shaders branch (includes Iris + Complementary Shaders)
 git clone --branch no-shaders --single-branch https://github.com/Baburao2342/mods.git
